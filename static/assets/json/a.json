@@ -343,4 +343,16 @@
     "categories": ["all", "social", "message", "media"],
     "error": "true"
   }
+  {
+    "name": "FreeDNS",
+    "link": "https://freedns.afraid.org",
+    "image": "/assets/media/icons/freedns.png",
+    "categories": ["all"]
+  },
+  {
+    "name": "SMailPro",
+    "link": "https://smailpro.com",
+    "image": "/assets/media/icons/smailpro.png",
+    "categories": ["all"]
+  },
 ]
